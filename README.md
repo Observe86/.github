@@ -6,4 +6,6 @@
 
 ## Cloud Architecture
 
-![Cloud Architecture](./images/cloud-architecture.svg)
+Work in progress...
+
+<!-- ![Cloud Architecture](./images/cloud-architecture.svg) -->
