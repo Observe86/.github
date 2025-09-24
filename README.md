@@ -1,5 +1,9 @@
 # Observe86
 
-## Architecture Diagram
+## System Architecture
 
-![Architecture Diagram](./images/architecture.svg)
+![System Architecture](./images/system-architecture.svg)
+
+## Cloud Architecture
+
+![Cloud Architecture](./images/cloud-architecture.svg)
